@@ -1,0 +1,7 @@
+uploads/*
+cache/*
+upgrade/*
+.DS_Store
+._*
+*.LCK
+error_log*
